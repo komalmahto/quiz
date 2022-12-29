@@ -1,4 +1,4 @@
-# Click [here](https://quizgamme.netlify.app/) to view quiz game.
+### Click [here](https://quizgamme.netlify.app/) to view quiz game.
 
 # Getting Started with Create React App
 
